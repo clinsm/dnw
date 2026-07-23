@@ -1,0 +1,11 @@
+/* Desktop Services navigation dropdown */
+@media (min-width: 992px) {
+  .u-nav-1 .services-dropdown { position: relative; }
+  .u-nav-1 .services-dropdown-toggle { align-items: center; cursor: pointer; display: inline-flex; gap: 8px; }
+  .u-nav-1 .services-dropdown-arrow { display: block; filter: brightness(0) invert(1); height: 9px; transition: transform 300ms cubic-bezier(.22, 1, .36, 1); width: 13px; }
+  .u-nav-1 .services-dropdown.is-open .services-dropdown-arrow { transform: rotate(180deg); }
+  .u-nav-1 .services-dropdown-menu { background: rgba(255, 255, 255, .2); border-radius: 14px; box-shadow: 0 12px 28px rgba(12, 18, 39, .18); display: flex; flex-direction: column; left: 50%; min-width: 175px; opacity: 0; padding: 9px 0; pointer-events: none; position: absolute; top: calc(100% + 4px); transform: translate(-50%, -8px) scale(.97); transform-origin: top center; transition: opacity 260ms ease, transform 320ms cubic-bezier(.22, 1, .36, 1), visibility 0s linear 320ms; visibility: hidden; z-index: 1001; }
+  .u-nav-1 .services-dropdown.is-open .services-dropdown-menu { opacity: 1; pointer-events: auto; transform: translate(-50%, 0) scale(1); transition-delay: 0s; visibility: visible; }
+  .u-nav-1 .services-dropdown-menu a { color: #fff !important; display: block; font: inherit; line-height: 1.25; padding: 9px 18px; text-decoration: none; transition: color 180ms ease; white-space: nowrap; }
+  .u-nav-1 .services-dropdown-menu a:hover, .u-nav-1 .services-dropdown-menu a:focus-visible { color: #e6e6e6 !important; outline: none; }
+}

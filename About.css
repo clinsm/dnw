@@ -1,0 +1,1290 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(21,40,66,0.45), rgba(21,40,66,0.45)), url('images/DNW_ECOTOPIA_background_about1.jpg');
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 400px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 137px;
+  margin-bottom: 49px;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 95px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0 19px 0 0;
+}
+
+.u-section-1 .u-text-1 {
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  font-size: 3rem;
+  background-image: none;
+  margin: 46px 3px 0;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 118px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 0 30px 31px 0;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: solid;
+  align-self: center;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: 34px auto 0 460px;
+  padding: 12px 49px 12px 48px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 344px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: 96px;
+    margin-bottom: 40px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 93px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 107px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 360px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 370px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-bottom: 60px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 21px;
+    margin-right: 21px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 114px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-right: 0;
+    padding-bottom: 30px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 32px;
+    margin-left: auto;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 363px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-bottom: 55px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 416px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-bottom: 60px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 320px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 426px;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  margin-top: 59px;
+  margin-bottom: 59px;
+}
+
+.u-section-2 .u-layout-cell-1 {
+  min-height: 358px;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px 30px 30px 0;
+}
+
+.u-section-2 .u-image-1 {
+  min-height: 98px;
+  --radius: 50px;
+  height: auto;
+  width: 289px;
+  background-image: url("images/DNW_ECOTOPIA_ELEMENT_2.png");
+  background-position: 50% 50%;
+  box-shadow: 5px 5px 20px 0 rgba(21,40,66,0.4);
+  margin: 0 auto 0 0;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding-left: 25px;
+  padding-right: 23px;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 1.85714rem;
+  margin: 0 auto 0 0;
+}
+
+.u-section-2 .u-text-2 {
+  margin: 60px 0 0;
+}
+
+.u-section-2 .u-layout-cell-2 {
+  min-height: 358px;
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-2 .u-text-3 {
+  margin: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 450px;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 295px;
+  }
+
+  .u-section-2 .u-image-1 {
+    margin-right: 121px;
+    height: auto;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 295px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 493px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    margin-bottom: 40px;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 444px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-right: 0;
+  }
+
+  .u-section-2 .u-image-1 {
+    margin-right: auto;
+  }
+
+  .u-section-2 .u-text-1 {
+    font-size: 1.5rem;
+    margin-top: 20px;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: auto;
+    margin-top: 39px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 444px;
+  }
+
+  .u-section-2 .u-container-layout-3 {
+    padding-bottom: 5px;
+    padding-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 600px;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 337px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-top: 0;
+    padding-right: 10px;
+    padding-bottom: 0;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-2 .u-container-layout-3 {
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 459px;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+} .u-section-3 {
+  background-image: none;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 553px;
+}
+
+.u-section-3 .u-layout-wrap-1 {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.u-section-3 .u-layout-cell-1 {
+  min-height: 424px;
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding: 21px 0;
+}
+
+.u-section-3 .u-image-1 {
+  width: 704px;
+  height: 368px;
+  margin: 0 auto 0 -123px;
+}
+
+.u-section-3 .u-layout-cell-2 {
+  min-height: 424px;
+}
+
+.u-section-3 .u-container-layout-2 {
+  padding: 30px 15px 0;
+}
+
+.u-section-3 .u-image-2 {
+  min-height: 98px;
+  --radius: 50px;
+  height: auto;
+  width: 289px;
+  background-image: url("images/DNW_ECOTOPIA_ELEMENT_2.png");
+  background-position: 50% 50%;
+  box-shadow: 5px 5px 20px 0 rgba(21,40,66,0.4);
+  margin: 0 auto 0 0;
+}
+
+.u-section-3 .u-container-layout-3 {
+  padding-left: 25px;
+  padding-right: 23px;
+}
+
+.u-section-3 .u-text-1 {
+  font-size: 1.85714rem;
+  margin: 0 auto 0 0;
+}
+
+.u-section-3 .u-text-2 {
+  margin: 37px 0 0;
+}
+
+.u-section-3 .u-icon-1 {
+  width: 185px;
+  height: 185px;
+  margin: -90px auto 0 37px;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 626px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    margin-top: 103px;
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 439px;
+  }
+
+  .u-section-3 .u-image-1 {
+    width: 620px;
+    height: 322px;
+    margin-top: 15px;
+    margin-left: -50px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 439px;
+  }
+
+  .u-section-3 .u-image-2 {
+    height: auto;
+  }
+
+  .u-section-3 .u-icon-1 {
+    margin-top: -151px;
+    margin-left: 15px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 556px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    margin-bottom: 30px;
+    position: relative;
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 423px;
+  }
+
+  .u-section-3 .u-image-1 {
+    width: 446px;
+    height: 234px;
+    margin-left: -49px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 423px;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-left: 14px;
+    padding-right: 14px;
+  }
+
+  .u-section-3 .u-image-2 {
+    width: 223px;
+    margin-left: 1px;
+  }
+
+  .u-section-3 .u-text-1 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-3 .u-text-2 {
+    width: auto;
+    margin-left: 1px;
+    margin-right: 1px;
+  }
+
+  .u-section-3 .u-icon-1 {
+    margin-left: auto;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1019px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    margin-top: 0;
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 364px;
+  }
+
+  .u-section-3 .u-image-1 {
+    width: 590px;
+    height: 309px;
+    margin-left: -50px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 272px;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-container-layout-3 {
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-top: 20px;
+  }
+
+  .u-section-3 .u-icon-1 {
+    margin-right: 96px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 633px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    margin-bottom: 42px;
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 235px;
+  }
+
+  .u-section-3 .u-image-1 {
+    width: 390px;
+    height: 203px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 356px;
+  }
+
+  .u-section-3 .u-container-layout-3 {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-top: 37px;
+    margin-right: 0;
+  }
+} .u-section-4 {
+  background-image: none;
+}
+
+.u-section-4 .u-sheet-1 {
+  min-height: 553px;
+}
+
+.u-section-4 .u-layout-wrap-1 {
+  width: 1140px;
+  margin: 65px auto 60px;
+}
+
+.u-section-4 .u-layout-cell-1 {
+  min-height: 424px;
+}
+
+.u-section-4 .u-container-layout-1 {
+  padding: 30px 15px 0 0;
+}
+
+.u-section-4 .u-image-1 {
+  min-height: 98px;
+  --radius: 50px;
+  height: auto;
+  width: 289px;
+  background-image: url("images/DNW_ECOTOPIA_ELEMENT_2.png");
+  background-position: 50% 50%;
+  box-shadow: 5px 5px 20px 0 rgba(21,40,66,0.4);
+  margin: 2px auto 0 0;
+}
+
+.u-section-4 .u-container-layout-2 {
+  padding-left: 25px;
+  padding-right: 23px;
+}
+
+.u-section-4 .u-text-1 {
+  font-size: 1.85714rem;
+  margin: 0 auto 0 0;
+}
+
+.u-section-4 .u-text-2 {
+  margin: 35px 0 0;
+}
+
+.u-section-4 .u-icon-1 {
+  width: 185px;
+  height: 185px;
+  margin: -156px auto 0 35px;
+  padding: 0;
+}
+
+.u-section-4 .u-layout-cell-2 {
+  min-height: 424px;
+}
+
+.u-section-4 .u-container-layout-3 {
+  padding: 11px 0;
+}
+
+.u-section-4 .u-image-2 {
+  width: 694px;
+  height: 362px;
+  transform-origin: center center;
+  transform: scaleX(-1);
+  margin: 0 -124px 0 auto;
+}
+
+.ducting-page .duct-service-list {
+  columns: 2;
+  column-gap: 28px;
+  margin: 20px 0 0;
+  padding-left: 18px;
+  line-height: 1.6;
+}
+
+.ducting-page .duct-service-list li {
+  break-inside: avoid;
+  margin: 0 0 8px;
+  padding-left: 2px;
+}
+
+.ducting-page #sec-duct-installation,
+.ducting-page #sec-duct-maintenance {
+  background-color: #ffffff !important;
+}
+
+.ducting-page .u-section-3 .u-container-layout-1,
+.ducting-page .u-section-4 .u-container-layout-3 {
+  justify-content: flex-start;
+}
+
+.ducting-page .u-section-3 .u-image-1,
+.ducting-page .u-section-4 .u-image-2 {
+  margin-top: 0;
+}
+
+.ducting-page .u-section-3 .u-container-layout-2,
+.ducting-page .u-section-4 .u-container-layout-1 {
+  position: relative;
+}
+
+.ducting-page .u-section-3 .u-text-2,
+.ducting-page .u-section-4 .u-text-2,
+.ducting-page .duct-service-list {
+  position: relative;
+  z-index: 1;
+}
+
+.ducting-page .u-section-3 .duct-service-list + .u-icon-1,
+.ducting-page .u-section-4 .duct-service-list + .u-icon-1 {
+  opacity: 0.32;
+  pointer-events: none;
+  position: relative;
+  z-index: 0;
+}
+
+.ducting-page .u-section-3 .duct-service-list + .u-icon-1 {
+  margin: -88px auto 0 37px;
+}
+
+.ducting-page .u-section-4 .duct-service-list + .u-icon-1 {
+  margin: -120px auto 0 35px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 479px;
+  }
+
+  .u-section-4 .u-layout-wrap-1 {
+    position: relative;
+    width: 940px;
+  }
+
+  .u-section-4 .u-layout-cell-1 {
+    min-height: 350px;
+  }
+
+  .u-section-4 .u-image-1 {
+    height: auto;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 418px;
+  }
+
+  .u-section-4 .u-image-2 {
+    width: 621px;
+    height: 324px;
+    margin-top: 55px;
+    margin-right: -51px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 397px;
+  }
+
+  .u-section-4 .u-layout-wrap-1 {
+    width: 720px;
+  }
+
+  .u-section-4 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-4 .u-container-layout-1 {
+    padding-top: 0;
+  }
+
+  .u-section-4 .u-image-1 {
+    width: 223px;
+    margin-top: 6px;
+  }
+
+  .u-section-4 .u-text-1 {
+    font-size: 1.5rem;
+    width: auto;
+  }
+
+  .u-section-4 .u-text-2 {
+    width: auto;
+    margin-top: 15px;
+  }
+
+  .u-section-4 .u-icon-1 {
+    margin-top: -164px;
+    margin-left: auto;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 453px;
+  }
+
+  .u-section-4 .u-image-2 {
+    width: 483px;
+    height: 251px;
+    margin-top: 132px;
+  }
+}
+
+@media (max-width: 767px) {
+  .ducting-page .duct-service-list {
+    columns: 1;
+  }
+
+  .u-section-4 .u-sheet-1 {
+    min-height: 538px;
+  }
+
+  .u-section-4 .u-layout-wrap-1 {
+    width: 540px;
+  }
+
+  .u-section-4 .u-container-layout-1 {
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-container-layout-2 {
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-text-2 {
+    margin-top: 20px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 523px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 424px;
+  }
+
+  .u-section-4 .u-layout-wrap-1 {
+    width: 340px;
+  }
+
+  .u-section-4 .u-text-2 {
+    margin-top: 15px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 331px;
+  }
+
+  .u-section-4 .u-image-2 {
+    width: 391px;
+    height: 203px;
+    margin-top: 105px;
+  }
+} .u-section-5 {
+  background-image: linear-gradient(0deg, rgba(21,40,66,0.75), rgba(21,40,66,0.75)), url('images/IMG-20240311-WA0012.jpg');
+  background-position: 50% 50%;
+}
+
+.u-section-5 .u-sheet-1 {
+  min-height: 297px;
+}
+
+.u-section-5 .u-layout-wrap-1 {
+  margin-top: 45px;
+  margin-bottom: 60px;
+}
+
+.u-section-5 .u-layout-cell-1 {
+  min-height: 185px;
+}
+
+.u-section-5 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-5 .u-image-1 {
+  min-height: 98px;
+  --radius: 50px;
+  height: auto;
+  width: 289px;
+  background-image: url("images/DNW_ECOTOPIA_ELEMENT_red_9.png");
+  background-position: 50% 50%;
+  box-shadow: 5px 5px 20px 0 rgba(21,40,66,0.4);
+  margin: 25px auto 0 0;
+}
+
+.u-section-5 .u-container-layout-2 {
+  padding-left: 25px;
+  padding-right: 23px;
+}
+
+.u-section-5 .u-text-1 {
+  font-size: 1.85714rem;
+  margin: 0 auto 0 0;
+}
+
+.u-section-5 .u-layout-cell-2 {
+  min-height: 185px;
+}
+
+.u-section-5 .u-container-layout-3 {
+  padding: 0;
+}
+
+.u-section-5 .u-text-2 {
+  margin: 25px 0 0 10px;
+}
+
+.u-section-5 .industries-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 42px 54px;
+  margin: 20px 0 0 10px;
+}
+
+.u-section-5 .industry-card {
+  color: #ffffff;
+}
+
+.u-section-5 .industry-card-header {
+  align-items: center;
+  display: flex;
+  gap: 16px;
+  min-height: 54px;
+}
+
+.u-section-5 .industry-number {
+  align-items: center;
+  background: #ffffff;
+  border-radius: 50%;
+  color: #152842;
+  display: inline-flex;
+  flex: 0 0 50px;
+  font-size: 1.42857rem;
+  font-weight: 800;
+  height: 50px;
+  justify-content: center;
+  line-height: 1;
+}
+
+.u-section-5 .industry-heading {
+  color: #ffffff;
+  font-size: 1.85714rem;
+  font-weight: 800;
+  letter-spacing: 0;
+  margin: 0;
+  text-transform: uppercase;
+}
+
+.u-section-5 .industry-list {
+  color: #ffffff;
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.35;
+  margin: 6px 0 0 76px;
+  padding-left: 18px;
+}
+
+.u-section-5 .industry-list li {
+  margin: 0 0 6px;
+  padding-left: 1px;
+}
+
+.u-section-5 .u-layout-cell-3 {
+  min-height: 185px;
+}
+
+.u-section-5 .u-container-layout-4 {
+  padding: 0;
+}
+
+.u-section-5 .u-icon-1 {
+  width: 185px;
+  height: 185px;
+  margin: 6px auto -6px -108px;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 203px;
+  }
+
+  .u-section-5 .u-layout-cell-1 {
+    min-height: 153px;
+  }
+
+  .u-section-5 .u-image-1 {
+    height: auto;
+  }
+
+  .u-section-5 .u-layout-cell-2 {
+    min-height: 153px;
+  }
+
+  .u-section-5 .u-text-2 {
+    margin-left: 0;
+  }
+
+  .u-section-5 .industries-grid {
+    gap: 34px 34px;
+    margin-left: 0;
+  }
+
+  .u-section-5 .u-layout-cell-3 {
+    min-height: 153px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-5 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-5 .u-image-1 {
+    width: 240px;
+  }
+
+  .u-section-5 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-5 .u-layout-cell-3 {
+    min-height: 100px;
+  }
+
+  .u-section-5 .industry-heading {
+    font-size: 1.57143rem;
+  }
+
+  .u-section-5 .industry-list {
+    margin-left: 66px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 536px;
+  }
+
+  .u-section-5 .u-layout-wrap-1 {
+    margin-top: 43px;
+    margin-bottom: 34px;
+  }
+
+  .u-section-5 .u-layout-cell-1 {
+    min-height: 102px;
+  }
+
+  .u-section-5 .u-container-layout-2 {
+    padding-right: 10px;
+  }
+
+  .u-section-5 .u-layout-cell-2 {
+    min-height: 151px;
+  }
+
+  .u-section-5 .industries-grid {
+    gap: 28px 24px;
+    grid-template-columns: 1fr;
+  }
+
+  .u-section-5 .u-layout-cell-3 {
+    min-height: 154px;
+  }
+
+  .u-section-5 .u-icon-1 {
+    margin: -16px 0 -16px auto;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 303px;
+  }
+
+  .u-section-5 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-5 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-5 .industry-card-header {
+    gap: 14px;
+  }
+
+  .u-section-5 .industry-number {
+    flex-basis: 46px;
+    font-size: 1.28571rem;
+    height: 46px;
+  }
+
+  .u-section-5 .industry-heading {
+    font-size: 1.42857rem;
+  }
+
+  .u-section-5 .industry-list {
+    margin-left: 60px;
+  }
+
+  .u-section-5 .u-layout-cell-3 {
+    min-height: 100px;
+  }
+} .u-section-6 {
+  background-image: none;
+}
+
+.u-section-6 .u-sheet-1 {
+  min-height: 1131px;
+}
+
+.u-section-6 .u-layout-wrap-1 {
+  margin-top: 45px;
+  margin-bottom: 0;
+}
+
+.u-section-6 .u-layout-cell-1 {
+  min-height: 150px;
+}
+
+.u-section-6 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-6 .u-image-1 {
+  min-height: 98px;
+  --radius: 50px;
+  height: auto;
+  width: 289px;
+  background-image: url("images/DNW_ECOTOPIA_ELEMENT_2.png");
+  background-position: 50% 50%;
+  box-shadow: 5px 5px 20px 0 rgba(21,40,66,0.4);
+  margin: 0 auto 0 0;
+}
+
+.u-section-6 .u-container-layout-2 {
+  padding-left: 25px;
+  padding-right: 23px;
+}
+
+.u-section-6 .u-text-1 {
+  font-size: 1.85714rem;
+  margin: 0 auto 0 0;
+}
+
+.u-section-6 .u-layout-cell-2 {
+  min-height: 150px;
+}
+
+.u-section-6 .u-container-layout-3 {
+  padding: 0;
+}
+
+.u-section-6 .u-text-2 {
+  margin: 0 134px 0 12px;
+}
+
+.u-section-6 .u-gallery-1 {
+  height: 761px;
+  margin-top: 45px;
+  margin-bottom: 60px;
+  grid-gap: 17px;
+}
+
+.u-section-6 .u-gallery-inner-1 {
+  grid-template-columns: repeat(4, auto);
+  grid-gap: 50px;
+}
+
+.u-section-6 .u-over-slide-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-6 .u-over-slide-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-6 .u-over-slide-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-6 .u-over-slide-4 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-6 .u-over-slide-5 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-6 .u-over-slide-6 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-6 .u-over-slide-7 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-6 .u-over-slide-8 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 1050px;
+  }
+
+  .u-section-6 .u-layout-cell-1 {
+    min-height: 124px;
+  }
+
+  .u-section-6 .u-image-1 {
+    height: auto;
+  }
+
+  .u-section-6 .u-layout-cell-2 {
+    min-height: 124px;
+  }
+
+  .u-section-6 .u-text-2 {
+    margin-right: 13px;
+    margin-left: 0;
+  }
+
+  .u-section-6 .u-gallery-1 {
+    height: 624px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 1583px;
+  }
+
+  .u-section-6 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-6 .u-image-1 {
+    width: 223px;
+  }
+
+  .u-section-6 .u-text-1 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-6 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-6 .u-text-2 {
+    margin-right: 0;
+  }
+
+  .u-section-6 .u-gallery-1 {
+    height: 1971px;
+  }
+
+  .u-section-6 .u-gallery-inner-1 {
+    grid-template-columns: repeat(2, auto);
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 4495px;
+  }
+
+  .u-section-6 .u-container-layout-2 {
+    padding-right: 10px;
+  }
+
+  .u-section-6 .u-text-1 {
+    width: auto;
+    margin-top: 26px;
+    margin-right: 45px;
+  }
+
+  .u-section-6 .u-gallery-1 {
+    height: 6018px;
+  }
+
+  .u-section-6 .u-gallery-inner-1 {
+    grid-template-columns: repeat(1, auto);
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 2979px;
+  }
+
+  .u-section-6 .u-gallery-1 {
+    height: 3833px;
+  }
+} .u-section-7 {
+  background-image: none;
+}
+
+.u-section-7 .u-sheet-1 {
+  min-height: 224px;
+}
+
+.u-section-7 .u-layout-wrap-1 {
+  margin-top: 10px;
+  margin-bottom: 60px;
+}
+
+.u-section-7 .u-layout-cell-1 {
+  min-height: 121px;
+}
+
+.u-section-7 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-7 .u-text-1 {
+  margin: 16px 0 0;
+}
+
+.u-section-7 .u-layout-cell-2 {
+  min-height: 121px;
+}
+
+.u-section-7 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-7 .u-btn-1 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0px;
+  margin: 5px auto 0 20px;
+  padding: 12px 25px 12px 24px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 203px;
+  }
+
+  .u-section-7 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-7 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-7 .u-btn-1 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 303px;
+  }
+
+  .u-section-7 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
