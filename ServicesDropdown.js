@@ -45,8 +45,10 @@ document.addEventListener('DOMContentLoaded', function () {
     });
 
     dropdown.addEventListener('focusin', function () {
-      cancelClose();
-      setOpen(true);
+      if (desktopQuery.matches) {
+        cancelClose();
+        setOpen(true);
+      }
     });
 
     dropdown.addEventListener('focusout', function () {
