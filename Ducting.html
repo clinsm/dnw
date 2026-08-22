@@ -1,5 +1,45 @@
 <!DOCTYPE html>
 <html style="font-size: 14px;" lang="en-ZA"><head>
+<script>
+(function () {
+  var path = window.location.pathname;
+
+  if (path.slice(-5).toLowerCase() === ".html") {
+    var cleanPath = path.slice(0, -5);
+    var cleanUrl = cleanPath + window.location.search + window.location.hash;
+
+    window.history.replaceState(null, document.title, cleanUrl);
+  }
+
+  document.addEventListener("click", function (event) {
+    var link = event.target.closest ? event.target.closest("a[href]") : null;
+
+    if (!link || event.defaultPrevented || event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) {
+      return;
+    }
+
+    var href = link.getAttribute("href");
+    var hrefPath = href ? href.split(/[?#]/)[0] : "";
+
+    if (!href || href.charAt(0) === "#" || href.charAt(0) === "/" || href.indexOf("//") === 0 || /^[a-z][a-z0-9+.-]*:/i.test(href) || hrefPath.slice(-5).toLowerCase() !== ".html") {
+      return;
+    }
+
+    var currentPath = window.location.pathname;
+    var basePath = currentPath.slice(0, currentPath.lastIndexOf("/") + 1);
+
+    if (basePath === "/" && currentPath.length > 1 && currentPath.indexOf(".") === -1) {
+      basePath = currentPath + "/";
+    }
+
+    var suffix = href.slice(hrefPath.length);
+    var cleanHref = hrefPath.slice(0, -5) + suffix;
+
+    event.preventDefault();
+    window.location.href = basePath + cleanHref;
+  }, true);
+})();
+</script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
     <meta name="keywords" content="Ducting Services South Africa, Duct Manufacturing, Duct Installation, Industrial Ventilation, HVAC Ducting, Spiral Ducting, Kitchen Extraction Systems, Fresh Air Systems, Exhaust Ducting, Commercial Ventilation">
@@ -600,6 +640,5 @@ c5.5,0,9.9,4.5,9.9,9.9V73.3z"></path></svg></span>
           </div>
         </div>
       </div></footer>
-
 
 </body></html>
